@@ -17,7 +17,7 @@
 
 You will learn the basic functioning of Pyevolve. You will make scripts for using genetic algorithms in simple problems.
 
-* [First Example](First%20Example.ipynb)
+* [First Example](https://github.com/RobInLabUJI/GeneticAlgorithm/blob/main/First_Example.ipynb)
 * [Graphical Analysis](Graphical%20Analysis.ipynb)
 * [Rastrigin Function](Rastrigin.ipynb)
 * [Travelling Salesman Problem](TSP.ipynb)
