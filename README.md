@@ -1,6 +1,6 @@
 # Genetic Algorithms with pyevolve
 
-<img src="img/logo.png" align="center">
+<img src="logo.png" align="center">
 
 [Pyevolve](http://pyevolve.sourceforge.net/0_6rc1/) was developed to be a complete genetic algorithm framework written in pure python. The main objectives were:
 
